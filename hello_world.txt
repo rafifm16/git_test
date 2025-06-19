@@ -1,1 +1,3 @@
 Hello World
+
+Trying to use VS Code as default text editor
